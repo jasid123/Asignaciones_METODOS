@@ -1,0 +1,1 @@
+Aquí se encuentra la primera asignación de metodos matematicos para físicos, la carpeta de "datos" contiene los csv de datos que se obtuvieron en el código, los otros dos archivos, que se encuentran por fuera de la carpeta son el código y el informe
